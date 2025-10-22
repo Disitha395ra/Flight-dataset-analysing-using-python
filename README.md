@@ -28,3 +28,26 @@ This project analyzes flight data to gain insights into airline pricing, departu
    ```bash
    git clone https://github.com/yourusername/Flight-Data-Analytics.git
 
+2. Navigate to the project folde
+   ```bash
+   cd Flight-Data-Analytics
+3. Install required libraries
+   ```bash
+   pip install pandas matplotlib seaborn
+4. Open the Jupyter Notebook
+   ```bash
+   jupyter notebook
+
+## How to Use
+
+Load the flight dataset (data.csv) into the project folder.
+Run the Jupyter Notebook cells step by step to see the analysis and visualizations.
+Modify plots or analysis as needed for further insights
+
+## Images(data analysing)
+![airline_price](./images/airline_price.png)
+![departuretime_distribution](./images/departuretime_distribution.png)
+![arrivaltime_distribution.png](./images/arrivaltime_distribution.png)
+![sourceVSdestination](./images/sourceVSdestination.png)
+![time_seriec](./images/time_seriec.png)
+![priceVSdaysleft](./images/priceVSdaysleft.png)
