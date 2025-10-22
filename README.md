@@ -45,7 +45,7 @@ Run the Jupyter Notebook cells step by step to see the analysis and visualizatio
 Modify plots or analysis as needed for further insights
 
 ## Images(data analysing)
-![airline_price](./images/airline_price.png)
+![airline_price](images/airline_price.png)
 ![departuretime_distribution](./images/departuretime_distribution.png)
 ![arrivaltime_distribution.png](./images/arrivaltime_distribution.png)
 ![sourceVSdestination](./images/sourceVSdestination.png)
