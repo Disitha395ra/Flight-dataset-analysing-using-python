@@ -44,10 +44,17 @@ Load the flight dataset (data.csv) into the project folder.
 Run the Jupyter Notebook cells step by step to see the analysis and visualizations.
 Modify plots or analysis as needed for further insights
 
-## Images(data analysing)
-![airline_price](images/airline_price.png)
-![departuretime_distribution](./images/departuretime_distribution.png)
-![arrivaltime_distribution.png](./images/arrivaltime_distribution.png)
-![sourceVSdestination](./images/sourceVSdestination.png)
-![time_seriec](./images/time_seriec.png)
-![priceVSdaysleft](./images/priceVSdaysleft.png)
+## Images(Visualizations - data analysing)
+
+Airlines Price Analysis
+<p float="left"> <img src="images/airline_price.png" width="400" /> </p>
+Departure Time Distribution
+<p float="left"> <img src="images/departuretime_distribution.png" width="400" /> </p>
+Arrival Time Distribution
+<p float="left"> <img src="images/arrivaltime_distribution.png" width="400" /> </p>
+Source vs Destination Cities
+<p float="left"> <img src="images/sourceVSdestination.png" width="400" /> </p>
+Time Series Analysis
+<p float="left"> <img src="images/time_seriec.png" width="400" /> </p>
+Price vs Days Left
+<p float="left"> <img src="images/priceVSdaysleft.png" width="400" /> </p>
